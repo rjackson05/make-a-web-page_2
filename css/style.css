@@ -1,0 +1,10 @@
+.description { color:red;}
+H1 {padding-top: 80px;
+  text-align: center;color: Blue; background-color: grey ; font-size: 32px; font-family: Helvetica}
+P {background-color: grey; font-size:20px}
+img2 {background-color: pink}
+.image { max-width: 15px;}
+img { width: 20%;}
+body {padding-top: 80px;
+  text-align: LEFT;
+  font-family: monaco, monospace}
